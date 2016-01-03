@@ -187,3 +187,10 @@ tbody:hover td[rowspan], tr:hover td, tbody:hover td {
    background: rgb(122,0,0);
    background: rgba(122,0,0,0.3);
 }
+
+textarea#ta1{
+		width: 600px;
+		height: 170px;
+}
+section.contact input.name {
+				width: 500px;}
